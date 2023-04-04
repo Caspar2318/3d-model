@@ -5,7 +5,7 @@ const state = proxy({
   color: "#f7642a",
   isLogoTexture: true,
   isFullTexture: false,
-  logoDecal: "./threejs.png",
+  logoDecal: "./logo5.png",
   fullDecal: "./threejs.png",
 });
 
